@@ -25,5 +25,5 @@ def bulk_rename_images(directory):
 # Specify the directory where your images are located
 directory = "C:/Users/R. TARUN NAYAKA/Pictures/tarun records/cert2"
 
-# Call the function to perform the renaming
+# Call the function to perform the renaming the given files in numeric order
 bulk_rename_images(directory)
